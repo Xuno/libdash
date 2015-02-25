@@ -35,6 +35,11 @@
 /libdash/bin/*.vh4
 /libdash/bin/*.txt
 
+/libdash/x64
+/libdash/libdash-build-*
+*.exe
+
+
 # /libdash/sampleplayer/
 /libdash/sampleplayer/log.txt
 
